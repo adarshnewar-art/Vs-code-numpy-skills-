@@ -1,0 +1,10 @@
+what is numpy?
+~ NumPy (Numerical Python) is one of the most important Python libraries for scientific computing, data analysis, machine learning, and AI. It provides a fast and efficient way to work with arrays, matrices, and mathematical operations.
+
+
+why we choose numpy rather than anything else?
+~🚀 Fast: Written in C, making computations much faster than Python lists.
+ 💾 Memory Efficient: Stores data more compactly.
+ ➕ Powerful Mathematical Operations: Perform calculations on entire arrays without writing loops.
+ 📊 Supports Multi-dimensional Arrays: Work with 1D, 2D, 3D, and higher-dimensional data.
+ 🤖 Foundation for AI & Data Science: Libraries like Pandas, TensorFlow, PyTorch, and Scikit-learn are built on or heavily use NumPy.
