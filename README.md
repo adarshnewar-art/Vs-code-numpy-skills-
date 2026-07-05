@@ -1,2 +1,4 @@
 # Vs-code-numpy-skills-
-in this repo you will find all the problems , programs of numpy library 
+In this repo you will find all the problems , programs related to Numpy LIbrary.
+And this is my first repository in GitHUB 
+
